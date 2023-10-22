@@ -33,9 +33,10 @@
 
 
 ● Logo o Brand (nombre) del ecommerce:  Cabañas Madre Gaia
-![image](https://github.com/PabloSeba/AiraPablo_Madre_Gaia/assets/141686608/69159a5b-d8ed-472c-a8bf-1abac18ffc2c)
 
 
 
+
+![Arbol Celta 01](https://github.com/PabloSeba/AiraPablo_Madre_Gaia/assets/141686608/92283dc9-9dd5-4865-be60-61cda87a87e3)
 
 
