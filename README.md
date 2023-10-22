@@ -12,8 +12,8 @@
       Tipografias posibles:
            1) Arial (sans-serif)
            2) Times New Roman (serif)
-	         3) Georgia (serif)
-	         4) Calendas Plus
+	   3) Georgia (serif)
+	   4) Calendas Plus
 
 
 ● Paleta de colores a utilizar. 
